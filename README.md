@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaadelia&layout=compact&theme=tokyonight" />
 </a>
 <br/>
-<h3> Essas são algumas das ferramentas que uso<h3>
+<h3> Essas são algumas ferramentas que uso<h3>
 <a href = "https://github.com/Ileriayo/markdown-badges">
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
