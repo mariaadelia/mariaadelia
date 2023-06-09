@@ -2,9 +2,9 @@
 
 <h4> Eu sou a Maria Adélia e <b>Bem-vindes ao meu GitHub</b></h4>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariaadelia&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariaadelia&show_icons=true&rank_icon=github&theme=tokyonight" />
 <br/><br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaadelia&layout=compact&theme=tokyonight" />
 </a>
